@@ -19,5 +19,5 @@ Sometimes re-opening the app can help it along, but the only sure-fire way I've 
 
 **I've downloaded all the files, continued, and now when I click "Login to Twitch.tv" nothing happens but a spinning loading circle on the purple button**
 
-For some reason the app sometimes has a problem launching a browser window. A workaround for this is to first, click the button if you haven't already (make sure the loading indicator is spinning), THEN, visit ```https://noitatogether.com/api/auth/login``` in your browser manually afterwards. Bookmark this URL to streamline this process if you want later.
+If you're running with sudo, running it without sudo may resolve this. For some reason the app sometimes has a problem launching a browser window. A workaround for this is to first, click the button if you haven't already (make sure the loading indicator is spinning), THEN, visit ```https://noitatogether.com/api/auth/login``` in your browser manually afterwards. Bookmark this URL to streamline this process if you want later. 
 &nbsp;    
